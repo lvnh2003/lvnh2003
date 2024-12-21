@@ -2,7 +2,7 @@
 My name is Lanh. I am a software engineer skilled in developing Web and Mobile applications, with experience in applying Artificial Intelligence to solve practical tasks.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://img.icons8.com/?size=25&id=13930&for5mat=png&color=000000) LinkedIn](https://github.com/lvnh2003/lvnh2003/) [![GitHub](https://img.icons8.com/?size=25&id=efFfwotdkiU5&format=png&color=000000) GitHub](https://github.com/lvnh2003/) [![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000) Facebook](https://www.facebook.com/lanh.justlanh/)
+[![Linkedin](https://img.icons8.com/?size=25&id=13930&for5mat=png&color=000000) LinkedIn](https://github.com/lvnh2003/lvnh2003/) [![GitHub](https://img.icons8.com/?size=25&id=efFfwotdkiU5&format=png&color=000000) GitHub](https://github.com/lvnh2003/) [![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000) Facebook](https://www.facebook.com/lanh.justlanh/) [![Profile](https://img.icons8.com/?size=25&id=ly1mHXi5Yybw&format=png&color=000000) Profile](https://necscat.com/company/member/nguyen-ngoc-lanh/) 
 
 
 
