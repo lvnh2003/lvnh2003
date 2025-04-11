@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋
 My name is Lanh. I am a software engineer skilled in developing Web and Mobile applications, with experience in applying Artificial Intelligence to solve practical tasks.<br>
 ## 📫 How to reach me: 
-(https://github.com/lvnh2003/) [![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000) Facebook](https://www.facebook.com/lanh.justlanh/) 
+[![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000) Facebook](https://www.facebook.com/lanh.justlanh/) 
 
 
 ![Lanh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lvnh2003&show_icons=true&include_all_commits=true&theme=transparent&hide=contribs,issues,stats)
