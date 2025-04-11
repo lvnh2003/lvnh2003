@@ -1,8 +1,7 @@
 ### WELCOME TO MY PAGE 👋
 My name is Lanh. I am a software engineer skilled in developing Web and Mobile applications, with experience in applying Artificial Intelligence to solve practical tasks.<br>
 ## 📫 How to reach me: 
-
-[![Profile](https://img.icons8.com/?size=25&id=ly1mHXi5Yybw&format=png&color=000000) Profile](https://necscat.com/company/member/nguyen-ngoc-lanh/)  [![GitHub](https://img.icons8.com/?size=25&id=efFfwotdkiU5&format=png&color=000000) GitHub](https://github.com/lvnh2003/) [![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000) Facebook](https://www.facebook.com/lanh.justlanh/) 
+(https://github.com/lvnh2003/) [![Facebook](https://img.icons8.com/?size=25&id=uLWV5A9vXIPu&format=png&color=000000) Facebook](https://www.facebook.com/lanh.justlanh/) 
 
 
 ![Lanh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lvnh2003&show_icons=true&include_all_commits=true&theme=transparent&hide=contribs,issues,stats)
