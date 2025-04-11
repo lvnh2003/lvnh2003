@@ -18,6 +18,10 @@ My name is Lanh. I am a software engineer skilled in developing Web and Mobile a
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lvnh2003&repo=Detect-People-Distress&theme=cobalt" />
 </a>
+<a href="https://github.com/lvnh2003/Train_Model/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lvnh2003&repo=Train_Model&theme=cobalt" />
+</a>
 <a href="https://github.com/lvnh2003/HomeWorkSolve/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lvnh2003&repo=HomeWorkSolve&theme=merko" />
