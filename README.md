@@ -33,6 +33,10 @@ My name is Lanh. I am a software engineer skilled in developing Web and Mobile a
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lvnh2003&repo=Award-Manage-Creator&theme=dark" />
 </a>
+<a href="https://github.com/lvnh2003/MoodChat/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lvnh2003&repo=MoodChat&theme=radical" />
+</a>
 <a href="https://github.com/tranhunganh02/Food-Delivery/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranhunganh02&repo=Food-Delivery&theme=onedark" />
